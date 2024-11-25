@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\bin\Debug\net6.0\LAI.Application.deps.json
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\bin\Debug\net6.0\LAI.Application.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\bin\Debug\net6.0\LAI.Application.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\refint\LAI.Application.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\ref\LAI.Application.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\bin\Debug\net6.0\LAI.Domain.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\bin\Debug\net6.0\LAI.Domain.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Application\obj\Debug\net6.0\LAI.Application.csproj.CopyComplete

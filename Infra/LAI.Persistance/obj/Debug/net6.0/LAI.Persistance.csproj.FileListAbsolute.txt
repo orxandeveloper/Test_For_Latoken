@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\bin\Debug\net6.0\LAI.Persistance.deps.json
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\bin\Debug\net6.0\LAI.Persistance.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\bin\Debug\net6.0\LAI.Persistance.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\refint\LAI.Persistance.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\LAI.Persistance.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Persistance\obj\Debug\net6.0\ref\LAI.Persistance.dll

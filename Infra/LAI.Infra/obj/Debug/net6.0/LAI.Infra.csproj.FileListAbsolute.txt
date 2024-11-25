@@ -1,0 +1,17 @@
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Infra.deps.json
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Infra.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Infra.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Application.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Application.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.csproj.CopyComplete
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\refint\LAI.Infra.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\LAI.Infra.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\obj\Debug\net6.0\ref\LAI.Infra.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Domain.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Infra\LAI.Infra\bin\Debug\net6.0\LAI.Domain.pdb

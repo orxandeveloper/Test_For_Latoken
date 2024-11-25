@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\bin\Debug\net6.0\LAI.Domain.deps.json
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\bin\Debug\net6.0\LAI.Domain.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\bin\Debug\net6.0\LAI.Domain.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.AssemblyInfo.cs
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\refint\LAI.Domain.dll
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\LAI.Domain.pdb
+C:\Users\admin\Documents\Test_for_Latoken\LatokenAI\Core\LAI.Domain\obj\Debug\net6.0\ref\LAI.Domain.dll
